@@ -6,7 +6,7 @@ The final dataset, Age AP, comprises 51,670 images representing 102 pest species
 
 ### Data Download
 
-You can download the Age AP through the [Drive](https://drive.google.com/drive/folders/1svFSy2Da3cVMvekBwe13mzyx38XZ9xWo?usp=sharing).
+You can download the Age AP through the [Drive](https://drive.google.com/drive/folders/1-0RSAcYfrbuANr6q5Ib6I3NYYLMYAvqu?usp=drive_link).
 
 The index and name of each insect pest sub-class in the classification task of the Age AP dataset can be found in [classes.txt](./classes.txt).
 
