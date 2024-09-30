@@ -10,6 +10,12 @@ You can download the Age AP through the [Drive](https://drive.google.com/drive/f
 
 The index and name of each insect pest sub-class in the classification task of the Age AP dataset can be found in [classes.txt](./classes.txt).
 
+## Guide For Age-AP Dataset
+
+<div align="center">
+<img src="./assets/architecture.jpg" width=600px alt="architecture"></image>
+</div>
+
 ### Additional Information
 
 ATTN: This dataset is free for academic usage. For other purposes, please contact Han Yuantao (hansel_00@163.com).
