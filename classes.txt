@@ -1,0 +1,369 @@
+Adristyrannus-adult
+Adristyrannus-egg
+Adristyrannus-larva
+Adristyrannus-pupa
+Aleurocanthus spiniferus-adult
+Aleurocanthus spiniferus-egg
+Aleurocanthus spiniferus-larva
+Aleurocanthus spiniferus-pupa
+Ampelophaga-adult
+Ampelophaga-egg
+Ampelophaga-larva
+Ampelophaga-pupa
+Aphis citricola Vander Goot-adult
+Aphis citricola Vander Goot-egg
+Aphis citricola Vander Goot-larva
+Apolygus lucorum-adult
+Apolygus lucorum-egg
+Apolygus lucorum-larva
+Bactrocera tsuneonis-adult
+Bactrocera tsuneonis-egg
+Bactrocera tsuneonis-larva
+Bactrocera tsuneonis-pupa
+Beet spot flies-adult
+Beet spot flies-egg
+Beet spot flies-larva
+Beet spot flies-pupa
+Brevipoalpus lewisi McGregor-adult
+Brevipoalpus lewisi McGregor-egg
+Brevipoalpus lewisi McGregor-larva
+Ceroplastes rubens-adult
+Ceroplastes rubens-egg
+Ceroplastes rubens-larva
+Ceroplastes rubens-pupa
+Chlumetia transversa-adult
+Chlumetia transversa-egg
+Chlumetia transversa-larva
+Chlumetia transversa-pupa
+Chrysomphalus aonidum-adult
+Chrysomphalus aonidum-egg
+Chrysomphalus aonidum-larva
+Chrysomphalus aonidum-pupa
+Cicadella viridis-adult
+Cicadella viridis-egg
+Cicadella viridis-larva
+Cicadellidae-adult
+Cicadellidae-egg
+Cicadellidae-larva
+Colomerus vitis-adult
+Colomerus vitis-egg
+Colomerus vitis-larva
+Dacus dorsalis(Hendel)-adult
+Dacus dorsalis(Hendel)-egg
+Dacus dorsalis(Hendel)-larva
+Dacus dorsalis(Hendel)-pupa
+Dasineura sp-adult
+Dasineura sp-egg
+Dasineura sp-larva
+Dasineura sp-pupa
+Deporaus marginatus Pascoe-adult
+Deporaus marginatus Pascoe-egg
+Deporaus marginatus Pascoe-larva
+Deporaus marginatus Pascoe-pupa
+Erythroneura apicalis-adult
+Erythroneura apicalis-egg
+Erythroneura apicalis-larva
+Icerya purchasi Maskell-adult
+Icerya purchasi Maskell-egg
+Icerya purchasi Maskell-larva
+Icerya purchasi Maskell-pupa
+Lawana imitata Melichar-adult
+Lawana imitata Melichar-egg
+Lawana imitata Melichar-larva
+Limacodidae-adult
+Limacodidae-egg
+Limacodidae-larva
+Limacodidae-pupa
+Locustoidea-adult
+Locustoidea-egg
+Locustoidea-larva
+Lycorma delicatula-adult
+Lycorma delicatula-egg
+Lycorma delicatula-larva
+Mango flat beak leafhopper-adult
+Mango flat beak leafhopper-egg
+Mango flat beak leafhopper-larva
+Miridae-adult
+Miridae-egg
+Miridae-larva
+Nipaecoccus vastalor-adult
+Nipaecoccus vastalor-egg
+Nipaecoccus vastalor-larva
+Nipaecoccus vastalor-pupa
+Panonchus citri McGregor-adult
+Panonchus citri McGregor-egg
+Panonchus citri McGregor-larva
+Papilio xuthus-adult
+Papilio xuthus-egg
+Papilio xuthus-larva
+Papilio xuthus-pupa
+Parlatoria zizyphus Lucus-adult
+Parlatoria zizyphus Lucus-egg
+Parlatoria zizyphus Lucus-larva
+Parlatoria zizyphus Lucus-pupa
+Phyllocnistis citrella Stainton-adult
+Phyllocnistis citrella Stainton-egg
+Phyllocnistis citrella Stainton-larva
+Phyllocnistis citrella Stainton-pupa
+Phyllocoptes oleiverus ashmead-adult
+Phyllocoptes oleiverus ashmead-egg
+Phyllocoptes oleiverus ashmead-larva
+Pieris canidia-adult
+Pieris canidia-egg
+Pieris canidia-larva
+Pieris canidia-pupa
+Polyphagotars onemus latus-adult
+Polyphagotars onemus latus-egg
+Polyphagotars onemus latus-larva
+Potosiabre vitarsis-adult
+Potosiabre vitarsis-egg
+Potosiabre vitarsis-larva
+Potosiabre vitarsis-pupa
+Prodenia litura-adult
+Prodenia litura-egg
+Prodenia litura-larva
+Prodenia litura-pupa
+Pseudococcus comstocki Kuwana-adult
+Pseudococcus comstocki Kuwana-egg
+Pseudococcus comstocki Kuwana-larva
+Pseudococcus comstocki Kuwana-pupa
+Rhytidodera bowrinii white-adult
+Rhytidodera bowrinii white-egg
+Rhytidodera bowrinii white-larva
+Rhytidodera bowrinii white-pupa
+Rice Stemfly-adult
+Rice Stemfly-egg
+Rice Stemfly-larva
+Rice Stemfly-pupa
+Salurnis marginella Guerr-adult
+Salurnis marginella Guerr-egg
+Salurnis marginella Guerr-larva
+Scirtothrips dorsalis Hood-adult
+Scirtothrips dorsalis Hood-egg
+Scirtothrips dorsalis Hood-larva
+Sternochetus frigidus-adult
+Sternochetus frigidus-egg
+Sternochetus frigidus-larva
+Sternochetus frigidus-pupa
+Tetradacus c Bactrocera minax-adult
+Tetradacus c Bactrocera minax-egg
+Tetradacus c Bactrocera minax-larva
+Tetradacus c Bactrocera minax-pupa
+Thrips-adult
+Thrips-egg
+Thrips-larva
+Toxoptera aurantii-adult
+Toxoptera aurantii-egg
+Toxoptera aurantii-larva
+Toxoptera citricidus-adult
+Toxoptera citricidus-egg
+Toxoptera citricidus-larva
+Trialeurodes vaporariorum-adult
+Trialeurodes vaporariorum-egg
+Trialeurodes vaporariorum-larva
+Trialeurodes vaporariorum-pupa
+Unaspis yanonensis-adult
+Unaspis yanonensis-egg
+Unaspis yanonensis-larva
+Unaspis yanonensis-pupa
+Viteus vitifoliae-adult
+Viteus vitifoliae-egg
+Viteus vitifoliae-larva
+Xylotrechus-adult
+Xylotrechus-egg
+Xylotrechus-larva
+Xylotrechus-pupa
+alfalfa plant bug-adult
+alfalfa plant bug-egg
+alfalfa plant bug-larva
+alfalfa seed chalcid-adult
+alfalfa seed chalcid-egg
+alfalfa seed chalcid-larva
+alfalfa seed chalcid-pupa
+alfalfa weevil-adult
+alfalfa weevil-egg
+alfalfa weevil-larva
+alfalfa weevil-pupa
+aphids-adult
+aphids-egg
+aphids-larva
+army worm-adult
+army worm-egg
+army worm-larva
+army worm-pupa
+asiatic rice borer-adult
+asiatic rice borer-egg
+asiatic rice borer-larva
+asiatic rice borer-pupa
+beet army worm-adult
+beet army worm-egg
+beet army worm-larva
+beet army worm-pupa
+beet fly-adult
+beet fly-egg
+beet fly-larva
+beet fly-pupa
+beet weevil-adult
+beet weevil-egg
+beet weevil-larva
+beet weevil-pupa
+bird cherry-oataphid-adult
+bird cherry-oataphid-egg
+bird cherry-oataphid-larva
+black cutworm-adult
+black cutworm-egg
+black cutworm-larva
+black cutworm-pupa
+blister beetle-adult
+blister beetle-egg
+blister beetle-larva
+blister beetle-pupa
+brown plant hopper-adult
+brown plant hopper-egg
+brown plant hopper-larva
+cabbage army worm-adult
+cabbage army worm-egg
+cabbage army worm-larva
+cabbage army worm-pupa
+cerodonta denticornis-adult
+cerodonta denticornis-egg
+cerodonta denticornis-larva
+cerodonta denticornis-pupa
+corn borer-adult
+corn borer-egg
+corn borer-larva
+corn borer-pupa
+english grain aphid-adult
+english grain aphid-egg
+english grain aphid-larva
+flax budworm-adult
+flax budworm-egg
+flax budworm-larva
+flax budworm-pupa
+flea beetle-adult
+flea beetle-egg
+flea beetle-larva
+flea beetle-pupa
+grain spreader thrips-adult
+grain spreader thrips-egg
+grain spreader thrips-larva
+green bug-adult
+green bug-egg
+green bug-larva
+grub-adult
+grub-egg
+grub-larva
+grub-pupa
+large cutworm-adult
+large cutworm-egg
+large cutworm-larva
+large cutworm-pupa
+legume blister beetle-adult
+legume blister beetle-egg
+legume blister beetle-larva
+legume blister beetle-pupa
+longlegged spider mite-adult
+longlegged spider mite-egg
+longlegged spider mite-larva
+lytta polita-adult
+lytta polita-egg
+lytta polita-larva
+lytta polita-pupa
+meadow moth-adult
+meadow moth-egg
+meadow moth-larva
+meadow moth-pupa
+mole cricket-adult
+mole cricket-egg
+mole cricket-larva
+odontothrips loti-adult
+odontothrips loti-egg
+odontothrips loti-larva
+oides decempunctata-adult
+oides decempunctata-egg
+oides decempunctata-larva
+oides decempunctata-pupa
+paddy stem maggot-adult
+paddy stem maggot-egg
+paddy stem maggot-larva
+paddy stem maggot-pupa
+parathrene regalis-adult
+parathrene regalis-egg
+parathrene regalis-larva
+parathrene regalis-pupa
+peach borer-adult
+peach borer-egg
+peach borer-larva
+peach borer-pupa
+penthaleus major-adult
+penthaleus major-egg
+penthaleus major-larva
+red spider-adult
+red spider-egg
+red spider-larva
+rice gall midge-adult
+rice gall midge-egg
+rice gall midge-larva
+rice gall midge-pupa
+rice leaf caterpillar-adult
+rice leaf caterpillar-egg
+rice leaf caterpillar-larva
+rice leaf caterpillar-pupa
+rice leaf roller-adult
+rice leaf roller-egg
+rice leaf roller-larva
+rice leaf roller-pupa
+rice leafhopper-adult
+rice leafhopper-egg
+rice leafhopper-larva
+rice shell pest-adult
+rice shell pest-egg
+rice shell pest-larva
+rice shell pest-pupa
+rice water weevil-adult
+rice water weevil-egg
+rice water weevil-larva
+rice water weevil-pupa
+sericaorient alismots chulsky-adult
+sericaorient alismots chulsky-egg
+sericaorient alismots chulsky-larva
+sericaorient alismots chulsky-pupa
+small brown plant hopper-adult
+small brown plant hopper-egg
+small brown plant hopper-larva
+tarnished plant bug-adult
+tarnished plant bug-egg
+tarnished plant bug-larva
+therioaphis maculata Buckton-adult
+therioaphis maculata Buckton-egg
+therioaphis maculata Buckton-larva
+wheat blossom midge-adult
+wheat blossom midge-egg
+wheat blossom midge-larva
+wheat blossom midge-pupa
+wheat phloeothrips-adult
+wheat phloeothrips-egg
+wheat phloeothrips-larva
+wheat sawfly-adult
+wheat sawfly-egg
+wheat sawfly-larva
+wheat sawfly-pupa
+white backed plant hopper-adult
+white backed plant hopper-egg
+white backed plant hopper-larva
+white margined moth-adult
+white margined moth-egg
+white margined moth-larva
+white margined moth-pupa
+wireworm-adult
+wireworm-egg
+wireworm-larva
+wireworm-pupa
+yellow cutworm-adult
+yellow cutworm-egg
+yellow cutworm-larva
+yellow cutworm-pupa
+yellow rice borer-adult
+yellow rice borer-egg
+yellow rice borer-larva
+yellow rice borer-pupa
