@@ -12,6 +12,4 @@ The index and name of each insect pest sub-class in the classification task of t
 
 ### Additional Information
 
-If you find the Age-AP helpful, please cite it as
-
 ATTN: This dataset is free for academic usage. For other purposes, please contact Han Yuantao (hansel_00@163.com).
